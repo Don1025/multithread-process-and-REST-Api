@@ -1,0 +1,8 @@
+TASK FETCHED : {"data":{"id":2289,"task_id":397,"start_line":0,"product_id":"527817420043","activity_id":"37940","activity_time":"2017-11-01 09:59:59","shop_name":"钟楼区邹区邦固工程照明灯具厂","count":100,"status":0},"success":true,"notEmpty":true,"empty":false}
+Fetching Activity ID for https://wholesale.1688.com/group/inform/m_reserve.jsonp
+Setcompleted :{ id :2289;  complete :19;  start_line : 20}
+Back_Server_Result : {"data":{"id":2289,"start_line":20,"status":1},"success":true,"notEmpty":true,"empty":false}
+Setcompleted :{ id :2289;  complete :20;  start_line : 40}
+Back_Server_Result : {"data":{"id":2289,"start_line":40,"status":1},"success":true,"notEmpty":true,"empty":false}
+Setcompleted :{ id :2289;  complete :19;  start_line : 60}
+Back_Server_Result : {"data":{"id":2289,"start_line":60,"status":1},"success":true,"notEmpty":true,"empty":false}
